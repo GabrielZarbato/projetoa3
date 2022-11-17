@@ -107,6 +107,16 @@ body {
     font-style: oblique;
 }
 
+#sobre {
+    display: flex;
+    background-color: white;
+    box-shadow: 2px 2px;
+    flex-direction: column;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    
+}
+
 #info { /*Informativo index */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 10px;
