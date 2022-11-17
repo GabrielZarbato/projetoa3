@@ -148,8 +148,8 @@ body {
     
     display: flex;
     flex-direction: column;
-    min-width: 200px;
-    max-width: 280px;
+    min-width: 350px;
+    max-width: 450px;
     flex: 1 1 200px;
     background-color: rgb(255, 255, 255);
     box-shadow: 2px 2px;
@@ -171,7 +171,8 @@ body {
 }
 
 .formulario { /*formulário */
-    justify-content: left;
+    
+    width: 900px;
     max-width: 480px;
     overflow: hidden; 
     margin: 50px auto;
