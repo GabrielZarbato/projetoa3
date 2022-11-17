@@ -95,10 +95,8 @@ li {  /* Design opções no canto superior da pag */
     list-style: none;
 
 }
-
 body {
-    background-image: url(../img/predio.jpg);
-
+    background-color: rgb(49, 48, 48);
 }
 
 #titulo {
