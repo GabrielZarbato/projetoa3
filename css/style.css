@@ -29,6 +29,7 @@ body {
 }
 
 .botao {
+    border-radius: 105px;
     background-color: black;
     border: none;
     color: white;
@@ -61,7 +62,6 @@ h2 {
     
     
 }
-
 
 h3 { /*Design texto article */
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -101,13 +101,13 @@ body {
 
 }
 
-
 #titulo {
-
+    
     font-style: oblique;
 }
 
 #sobre {
+    border-radius: 105px;
     display: flex;
     background-color: white;
     box-shadow: 2px 2px;
@@ -118,11 +118,13 @@ body {
 }
 
 #info { /*Informativo index */
+    
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding: 10px;
 }
 
 #about { /*Informativo das páginas */
+    border-radius: 15px;
     display: flex;
     background-color: white;
     box-shadow: 2px 2px;
@@ -131,8 +133,6 @@ body {
     padding: 10px;
 
 }
-
-
 
 #titulopag {
     background-color: white;
@@ -143,6 +143,7 @@ body {
 }
 
 #detail {
+    
     background-color: white;
     box-shadow: 2px 2px;
     display: flex;
@@ -156,13 +157,13 @@ body {
 }
 
 .ar { /*article */
-    
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     min-width: 350px;
     max-width: 450px;
     flex: 1 1 200px;
-    background-color: rgb(255, 255, 255);
+    background-color: white;
     box-shadow: 2px 2px;
     padding: 15px;
     margin-bottom: 100px;
@@ -184,8 +185,6 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
-
-
 
 .formulario { /*formulário */
     
