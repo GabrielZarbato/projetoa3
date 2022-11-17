@@ -142,6 +142,7 @@ body {
     padding: 10px; 
     padding-bottom: 50px;
     height: 600px;
+    margin-bottom: 100px;
 }
 
 .ar { /*article */
@@ -169,6 +170,8 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
 }
+
+
 
 .formulario { /*formulário */
     
